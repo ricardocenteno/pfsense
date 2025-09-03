@@ -13,3 +13,4 @@ pkgs.tailscale.com
 dl.tailscale.com
 api.snapcraft.io
 changelogs.ubuntu.com/meta-release-lts
+https://ppa.launchpadcontent.net/linux-schools/samba-latest/ubuntu
