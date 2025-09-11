@@ -1,9 +1,11 @@
 104.16.62.16
 104.16.63.16
+
 teamviewer.com
 cloudapp.azure.com
 configdl.teamviewer.com
 webapi.teamviewer.com
+
 ar-blue-anx-r001.router.teamviewer.com
 ar-blue-anx-r002.router.teamviewer.com
 ar-blue-anx-r003.router.teamviewer.com
@@ -203,6 +205,7 @@ br-rio-anx-r096.router.teamviewer.com
 br-rio-anx-r097.router.teamviewer.com
 br-rio-anx-r098.router.teamviewer.com
 br-rio-anx-r099.router.teamviewer.com
+
 br-sao-anx-r001.router.teamviewer.com
 br-sao-anx-r002.router.teamviewer.com
 br-sao-anx-r003.router.teamviewer.com
@@ -302,6 +305,7 @@ br-sao-anx-r096.router.teamviewer.com
 br-sao-anx-r097.router.teamviewer.com
 br-sao-anx-r098.router.teamviewer.com
 br-sao-anx-r099.router.teamviewer.com
+
 br-rio-gcp-r001.router.teamviewer.com
 br-rio-gcp-r002.router.teamviewer.com
 br-rio-gcp-r003.router.teamviewer.com
@@ -401,6 +405,7 @@ br-rio-gcp-r096.router.teamviewer.com
 br-rio-gcp-r097.router.teamviewer.com
 br-rio-gcp-r098.router.teamviewer.com
 br-rio-gcp-r099.router.teamviewer.com
+
 br-sao-gcp-r001.router.teamviewer.com
 br-sao-gcp-r002.router.teamviewer.com
 br-sao-gcp-r003.router.teamviewer.com
@@ -500,3 +505,5 @@ br-sao-gcp-r096.router.teamviewer.com
 br-sao-gcp-r097.router.teamviewer.com
 br-sao-gcp-r098.router.teamviewer.com
 br-sao-gcp-r099.router.teamviewer.com
+
+
